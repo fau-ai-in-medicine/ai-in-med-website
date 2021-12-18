@@ -2,3 +2,8 @@ baseURL = "http://fau-ai-in-medicine.github.io/ai-in-med-website/"
 languageCode = "en-us"
 title = "FAU AI in Medicine"
 theme = "ananke"
+
+[params]
+  body_classes = "avenir bg-near-white"
+  post_content_classes = "avenir bg-near-white"
+  custom_css = ["custom.css"]
