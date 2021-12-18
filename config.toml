@@ -1,4 +1,4 @@
 baseURL = "http://fau-ai-in-medicine.github.io/ai-in-med-website/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "FAU AI in Medicine"
 theme = "ananke"
