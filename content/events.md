@@ -18,3 +18,5 @@ A panel of published FAU medical students and faculty will be available to answe
 The students on the **panel will discuss how they got started with and published doing AI research, and how other medical students could too.**
 
 Dr. Oge Marques, Professor of Computer Science and Engineering at FAU and affiliated with the COM, will deliver a **brief introduction explaining the successes, challenges, and limitations of AI in Medicine to date.**
+
+{{< ai-forum-survey >}}
